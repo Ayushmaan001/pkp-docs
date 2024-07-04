@@ -37,7 +37,7 @@ Dates should be in the format `YYYY-MM-DD`.
 
 A CLI tool is available to remove locale keys. This can be useful when a locale key is no longer used and needs to be removed from every locale.
 
-From the rood directory of an application, run:
+From the root directory of an application, run:
 
 ```
 php tools/removeLocaleKey.php example.locale.key
